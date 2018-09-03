@@ -1,8 +1,7 @@
-Optional Homework
+Optional Homework *(20% completed)*
 ----------------------
 Word-Guess with Constructors
 ============================
 
 * Node JS
 * inguirer npm package.
-(20% completed)
