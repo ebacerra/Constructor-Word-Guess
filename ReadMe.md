@@ -1,4 +1,4 @@
-Optional Homework *(20% completed)*
+Optional Homework *(30% completed)*
 ----------------------
 Word-Guess with Constructors
 ============================
